@@ -1,3 +1,10 @@
+// Median of Two Sorted Arrays (https://leetcode.com/problems/median-of-two-sorted-arrays)
+
+// Time Complexity: O(log n) where n is shortest array
+// Space Complexity: O(n) 
+// Did this code successfully run on Leetcode: Yes
+// Any problem you faced while coding this: Took reference from lecture
+
 public class MedianOfTwoArray {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // null
